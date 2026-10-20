@@ -1,0 +1,653 @@
+Jul 03 00:00:03 LiWS01 CRON[8019]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:00:05 LiWS01 CRON[8019]: pam_unix(cron:session): session closed for user root
+Jul 03 00:05:01 LiWS01 CRON[5160]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:05:02 LiWS01 CRON[5160]: pam_unix(cron:session): session closed for user root
+Jul 03 00:10:03 LiWS01 CRON[7585]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:10:04 LiWS01 CRON[7585]: pam_unix(cron:session): session closed for user root
+Jul 03 00:15:03 LiWS01 CRON[1771]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:15:05 LiWS01 CRON[1771]: pam_unix(cron:session): session closed for user root
+Jul 03 00:17:04 LiWS01 CRON[4705]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:17:05 LiWS01 CRON[4705]: pam_unix(cron:session): session closed for user root
+Jul 03 00:20:00 LiWS01 CRON[2161]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:20:01 LiWS01 CRON[2161]: pam_unix(cron:session): session closed for user root
+Jul 03 00:25:03 LiWS01 CRON[5877]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:25:05 LiWS01 CRON[5877]: pam_unix(cron:session): session closed for user root
+Jul 03 00:30:01 LiWS01 CRON[6356]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:30:02 LiWS01 CRON[6356]: pam_unix(cron:session): session closed for user root
+Jul 03 00:35:00 LiWS01 CRON[7813]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:35:01 LiWS01 CRON[7813]: pam_unix(cron:session): session closed for user root
+Jul 03 00:40:01 LiWS01 CRON[1292]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:40:02 LiWS01 CRON[1292]: pam_unix(cron:session): session closed for user root
+Jul 03 00:45:00 LiWS01 CRON[5912]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:45:02 LiWS01 CRON[5912]: pam_unix(cron:session): session closed for user root
+Jul 03 00:50:03 LiWS01 CRON[3672]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:50:04 LiWS01 CRON[3672]: pam_unix(cron:session): session closed for user root
+Jul 03 00:55:01 LiWS01 CRON[5252]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 00:55:03 LiWS01 CRON[5252]: pam_unix(cron:session): session closed for user root
+Jul 03 01:00:00 LiWS01 CRON[6426]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:00:02 LiWS01 CRON[6426]: pam_unix(cron:session): session closed for user root
+Jul 03 01:05:02 LiWS01 CRON[6364]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:05:04 LiWS01 CRON[6364]: pam_unix(cron:session): session closed for user root
+Jul 03 01:10:00 LiWS01 CRON[5515]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:10:02 LiWS01 CRON[5515]: pam_unix(cron:session): session closed for user root
+Jul 03 01:15:01 LiWS01 CRON[3582]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:15:03 LiWS01 CRON[3582]: pam_unix(cron:session): session closed for user root
+Jul 03 01:17:00 LiWS01 CRON[5094]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:17:01 LiWS01 CRON[5094]: pam_unix(cron:session): session closed for user root
+Jul 03 01:20:00 LiWS01 CRON[1243]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:20:01 LiWS01 CRON[1243]: pam_unix(cron:session): session closed for user root
+Jul 03 01:25:00 LiWS01 CRON[4280]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:25:02 LiWS01 CRON[4280]: pam_unix(cron:session): session closed for user root
+Jul 03 01:30:00 LiWS01 CRON[4166]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:30:01 LiWS01 CRON[4166]: pam_unix(cron:session): session closed for user root
+Jul 03 01:35:00 LiWS01 CRON[7941]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:35:01 LiWS01 CRON[7941]: pam_unix(cron:session): session closed for user root
+Jul 03 01:40:00 LiWS01 CRON[2718]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:40:02 LiWS01 CRON[2718]: pam_unix(cron:session): session closed for user root
+Jul 03 01:45:03 LiWS01 CRON[4075]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:45:05 LiWS01 CRON[4075]: pam_unix(cron:session): session closed for user root
+Jul 03 01:50:01 LiWS01 CRON[1598]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:50:03 LiWS01 CRON[1598]: pam_unix(cron:session): session closed for user root
+Jul 03 01:55:00 LiWS01 CRON[3759]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 01:55:02 LiWS01 CRON[3759]: pam_unix(cron:session): session closed for user root
+Jul 03 02:00:03 LiWS01 CRON[8897]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:00:04 LiWS01 CRON[8897]: pam_unix(cron:session): session closed for user root
+Jul 03 02:05:01 LiWS01 CRON[2102]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:05:02 LiWS01 CRON[2102]: pam_unix(cron:session): session closed for user root
+Jul 03 02:10:00 LiWS01 CRON[1089]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:10:02 LiWS01 CRON[1089]: pam_unix(cron:session): session closed for user root
+Jul 03 02:15:03 LiWS01 CRON[7529]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:15:04 LiWS01 CRON[7529]: pam_unix(cron:session): session closed for user root
+Jul 03 02:17:00 LiWS01 CRON[3724]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:17:01 LiWS01 CRON[3724]: pam_unix(cron:session): session closed for user root
+Jul 03 02:20:01 LiWS01 CRON[6587]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:20:03 LiWS01 CRON[6587]: pam_unix(cron:session): session closed for user root
+Jul 03 02:25:01 LiWS01 CRON[5168]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:25:02 LiWS01 CRON[5168]: pam_unix(cron:session): session closed for user root
+Jul 03 02:30:03 LiWS01 CRON[4434]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:30:04 LiWS01 CRON[4434]: pam_unix(cron:session): session closed for user root
+Jul 03 02:35:03 LiWS01 CRON[4234]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:35:04 LiWS01 CRON[4234]: pam_unix(cron:session): session closed for user root
+Jul 03 02:40:02 LiWS01 CRON[1003]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:40:04 LiWS01 CRON[1003]: pam_unix(cron:session): session closed for user root
+Jul 03 02:45:00 LiWS01 CRON[8248]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:45:01 LiWS01 CRON[8248]: pam_unix(cron:session): session closed for user root
+Jul 03 02:50:03 LiWS01 CRON[2534]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:50:04 LiWS01 CRON[2534]: pam_unix(cron:session): session closed for user root
+Jul 03 02:55:01 LiWS01 CRON[1344]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 02:55:02 LiWS01 CRON[1344]: pam_unix(cron:session): session closed for user root
+Jul 03 03:00:02 LiWS01 CRON[1078]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:00:04 LiWS01 CRON[1078]: pam_unix(cron:session): session closed for user root
+Jul 03 03:05:00 LiWS01 CRON[4163]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:05:01 LiWS01 CRON[4163]: pam_unix(cron:session): session closed for user root
+Jul 03 03:10:01 LiWS01 CRON[1738]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:10:02 LiWS01 CRON[1738]: pam_unix(cron:session): session closed for user root
+Jul 03 03:15:02 LiWS01 CRON[1127]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:15:04 LiWS01 CRON[1127]: pam_unix(cron:session): session closed for user root
+Jul 03 03:17:02 LiWS01 CRON[4617]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:17:03 LiWS01 CRON[4617]: pam_unix(cron:session): session closed for user root
+Jul 03 03:20:03 LiWS01 CRON[6096]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:20:04 LiWS01 CRON[6096]: pam_unix(cron:session): session closed for user root
+Jul 03 03:25:03 LiWS01 CRON[8857]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:25:04 LiWS01 CRON[8857]: pam_unix(cron:session): session closed for user root
+Jul 03 03:30:03 LiWS01 CRON[8098]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:30:04 LiWS01 CRON[8098]: pam_unix(cron:session): session closed for user root
+Jul 03 03:35:01 LiWS01 CRON[6138]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:35:03 LiWS01 CRON[6138]: pam_unix(cron:session): session closed for user root
+Jul 03 03:40:01 LiWS01 CRON[8441]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:40:02 LiWS01 CRON[8441]: pam_unix(cron:session): session closed for user root
+Jul 03 03:45:01 LiWS01 CRON[6942]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:45:02 LiWS01 CRON[6942]: pam_unix(cron:session): session closed for user root
+Jul 03 03:50:01 LiWS01 CRON[7057]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:50:03 LiWS01 CRON[7057]: pam_unix(cron:session): session closed for user root
+Jul 03 03:55:03 LiWS01 CRON[8226]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 03:55:04 LiWS01 CRON[8226]: pam_unix(cron:session): session closed for user root
+Jul 03 04:00:00 LiWS01 CRON[1850]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:00:01 LiWS01 CRON[1850]: pam_unix(cron:session): session closed for user root
+Jul 03 04:05:02 LiWS01 CRON[5197]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:05:03 LiWS01 CRON[5197]: pam_unix(cron:session): session closed for user root
+Jul 03 04:10:03 LiWS01 CRON[7060]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:10:05 LiWS01 CRON[7060]: pam_unix(cron:session): session closed for user root
+Jul 03 04:15:03 LiWS01 CRON[4447]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:15:05 LiWS01 CRON[4447]: pam_unix(cron:session): session closed for user root
+Jul 03 04:17:00 LiWS01 CRON[4452]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:17:01 LiWS01 CRON[4452]: pam_unix(cron:session): session closed for user root
+Jul 03 04:20:01 LiWS01 CRON[5260]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:20:02 LiWS01 CRON[5260]: pam_unix(cron:session): session closed for user root
+Jul 03 04:25:01 LiWS01 CRON[2035]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:25:03 LiWS01 CRON[2035]: pam_unix(cron:session): session closed for user root
+Jul 03 04:30:00 LiWS01 CRON[5582]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:30:02 LiWS01 CRON[5582]: pam_unix(cron:session): session closed for user root
+Jul 03 04:35:01 LiWS01 CRON[2739]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:35:02 LiWS01 CRON[2739]: pam_unix(cron:session): session closed for user root
+Jul 03 04:40:02 LiWS01 CRON[1566]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:40:04 LiWS01 CRON[1566]: pam_unix(cron:session): session closed for user root
+Jul 03 04:45:01 LiWS01 CRON[4651]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:45:02 LiWS01 CRON[4651]: pam_unix(cron:session): session closed for user root
+Jul 03 04:50:01 LiWS01 CRON[1381]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:50:03 LiWS01 CRON[1381]: pam_unix(cron:session): session closed for user root
+Jul 03 04:55:01 LiWS01 CRON[4021]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 04:55:02 LiWS01 CRON[4021]: pam_unix(cron:session): session closed for user root
+Jul 03 05:00:03 LiWS01 CRON[8298]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:00:05 LiWS01 CRON[8298]: pam_unix(cron:session): session closed for user root
+Jul 03 05:05:01 LiWS01 CRON[6381]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:05:02 LiWS01 CRON[6381]: pam_unix(cron:session): session closed for user root
+Jul 03 05:10:00 LiWS01 CRON[8566]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:10:02 LiWS01 CRON[8566]: pam_unix(cron:session): session closed for user root
+Jul 03 05:15:02 LiWS01 CRON[8456]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:15:04 LiWS01 CRON[8456]: pam_unix(cron:session): session closed for user root
+Jul 03 05:17:01 LiWS01 CRON[3966]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:17:02 LiWS01 CRON[3966]: pam_unix(cron:session): session closed for user root
+Jul 03 05:20:00 LiWS01 CRON[8887]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:20:01 LiWS01 CRON[8887]: pam_unix(cron:session): session closed for user root
+Jul 03 05:25:00 LiWS01 CRON[5901]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:25:02 LiWS01 CRON[5901]: pam_unix(cron:session): session closed for user root
+Jul 03 05:30:02 LiWS01 CRON[1551]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:30:04 LiWS01 CRON[1551]: pam_unix(cron:session): session closed for user root
+Jul 03 05:35:00 LiWS01 CRON[2119]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:35:01 LiWS01 CRON[2119]: pam_unix(cron:session): session closed for user root
+Jul 03 05:40:02 LiWS01 CRON[4711]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:40:03 LiWS01 CRON[4711]: pam_unix(cron:session): session closed for user root
+Jul 03 05:45:01 LiWS01 CRON[8374]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:45:03 LiWS01 CRON[8374]: pam_unix(cron:session): session closed for user root
+Jul 03 05:50:00 LiWS01 CRON[3882]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:50:02 LiWS01 CRON[3882]: pam_unix(cron:session): session closed for user root
+Jul 03 05:55:00 LiWS01 CRON[8379]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 05:55:02 LiWS01 CRON[8379]: pam_unix(cron:session): session closed for user root
+Jul 03 06:00:03 LiWS01 CRON[8073]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:00:04 LiWS01 CRON[8073]: pam_unix(cron:session): session closed for user root
+Jul 03 06:05:03 LiWS01 CRON[6119]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:05:05 LiWS01 CRON[6119]: pam_unix(cron:session): session closed for user root
+Jul 03 06:10:00 LiWS01 CRON[5773]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:10:01 LiWS01 CRON[5773]: pam_unix(cron:session): session closed for user root
+Jul 03 06:15:00 LiWS01 CRON[1657]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:15:01 LiWS01 CRON[1657]: pam_unix(cron:session): session closed for user root
+Jul 03 06:17:00 LiWS01 CRON[8735]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:17:01 LiWS01 CRON[8735]: pam_unix(cron:session): session closed for user root
+Jul 03 06:20:03 LiWS01 CRON[3107]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:20:05 LiWS01 CRON[3107]: pam_unix(cron:session): session closed for user root
+Jul 03 06:25:03 LiWS01 CRON[4182]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:25:05 LiWS01 CRON[4182]: pam_unix(cron:session): session closed for user root
+Jul 03 06:30:00 LiWS01 CRON[4789]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:30:01 LiWS01 CRON[4789]: pam_unix(cron:session): session closed for user root
+Jul 03 06:35:00 LiWS01 CRON[3541]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:35:02 LiWS01 CRON[3541]: pam_unix(cron:session): session closed for user root
+Jul 03 06:40:01 LiWS01 CRON[1182]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:40:02 LiWS01 CRON[1182]: pam_unix(cron:session): session closed for user root
+Jul 03 06:45:03 LiWS01 CRON[5073]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:45:05 LiWS01 CRON[5073]: pam_unix(cron:session): session closed for user root
+Jul 03 06:50:00 LiWS01 CRON[8343]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:50:02 LiWS01 CRON[8343]: pam_unix(cron:session): session closed for user root
+Jul 03 06:55:01 LiWS01 CRON[3466]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 06:55:02 LiWS01 CRON[3466]: pam_unix(cron:session): session closed for user root
+Jul 03 07:00:02 LiWS01 CRON[7174]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:00:04 LiWS01 CRON[7174]: pam_unix(cron:session): session closed for user root
+Jul 03 07:05:01 LiWS01 CRON[5082]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:05:03 LiWS01 CRON[5082]: pam_unix(cron:session): session closed for user root
+Jul 03 07:10:02 LiWS01 CRON[4315]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:10:03 LiWS01 CRON[4315]: pam_unix(cron:session): session closed for user root
+Jul 03 07:15:03 LiWS01 CRON[6195]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:15:04 LiWS01 CRON[6195]: pam_unix(cron:session): session closed for user root
+Jul 03 07:17:01 LiWS01 CRON[5246]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:17:02 LiWS01 CRON[5246]: pam_unix(cron:session): session closed for user root
+Jul 03 07:20:01 LiWS01 CRON[8211]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:20:03 LiWS01 CRON[8211]: pam_unix(cron:session): session closed for user root
+Jul 03 07:25:02 LiWS01 CRON[2798]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:25:03 LiWS01 CRON[2798]: pam_unix(cron:session): session closed for user root
+Jul 03 07:30:01 LiWS01 CRON[2115]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:30:03 LiWS01 CRON[2115]: pam_unix(cron:session): session closed for user root
+Jul 03 07:35:00 LiWS01 CRON[3873]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:35:01 LiWS01 CRON[3873]: pam_unix(cron:session): session closed for user root
+Jul 03 07:40:02 LiWS01 CRON[8782]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:40:03 LiWS01 CRON[8782]: pam_unix(cron:session): session closed for user root
+Jul 03 07:45:03 LiWS01 CRON[1924]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:45:05 LiWS01 CRON[1924]: pam_unix(cron:session): session closed for user root
+Jul 03 07:50:01 LiWS01 CRON[3254]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:50:03 LiWS01 CRON[3254]: pam_unix(cron:session): session closed for user root
+Jul 03 07:55:03 LiWS01 CRON[4133]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 07:55:05 LiWS01 CRON[4133]: pam_unix(cron:session): session closed for user root
+Jul 03 08:00:02 LiWS01 CRON[4706]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:00:03 LiWS01 CRON[4706]: pam_unix(cron:session): session closed for user root
+Jul 03 08:05:00 LiWS01 CRON[7788]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:05:02 LiWS01 CRON[7788]: pam_unix(cron:session): session closed for user root
+Jul 03 08:10:00 LiWS01 CRON[8150]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:10:02 LiWS01 CRON[8150]: pam_unix(cron:session): session closed for user root
+Jul 03 08:12:40 LiWS01 gdm-password: pam_unix(gdm-password:session): session opened for user woreilly(uid=1000) by (uid=0)
+Jul 03 08:12:41 LiWS01 systemd-logind[812]: New session 2 of user woreilly.
+Jul 03 08:15:02 LiWS01 CRON[5674]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:15:04 LiWS01 CRON[5674]: pam_unix(cron:session): session closed for user root
+Jul 03 08:17:04 LiWS01 CRON[6867]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:17:05 LiWS01 CRON[6867]: pam_unix(cron:session): session closed for user root
+Jul 03 08:20:00 LiWS01 CRON[6318]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:20:01 LiWS01 CRON[6318]: pam_unix(cron:session): session closed for user root
+Jul 03 08:25:03 LiWS01 CRON[4319]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:25:04 LiWS01 CRON[4319]: pam_unix(cron:session): session closed for user root
+Jul 03 08:30:02 LiWS01 CRON[1202]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:30:03 LiWS01 CRON[1202]: pam_unix(cron:session): session closed for user root
+Jul 03 08:35:01 LiWS01 CRON[7383]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:35:02 LiWS01 CRON[7383]: pam_unix(cron:session): session closed for user root
+Jul 03 08:40:00 LiWS01 CRON[6154]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:40:02 LiWS01 CRON[6154]: pam_unix(cron:session): session closed for user root
+Jul 03 08:45:02 LiWS01 CRON[1893]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:45:03 LiWS01 CRON[1893]: pam_unix(cron:session): session closed for user root
+Jul 03 08:50:01 LiWS01 CRON[6607]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:50:02 LiWS01 CRON[6607]: pam_unix(cron:session): session closed for user root
+Jul 03 08:55:03 LiWS01 CRON[7748]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 08:55:05 LiWS01 CRON[7748]: pam_unix(cron:session): session closed for user root
+Jul 03 09:00:03 LiWS01 CRON[1088]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:00:04 LiWS01 CRON[1088]: pam_unix(cron:session): session closed for user root
+Jul 03 09:03:12 LiWS01 sudo: woreilly : TTY=pts/0 ; PWD=/home/woreilly ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 03 09:03:12 LiWS01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by woreilly(uid=1000)
+Jul 03 09:03:39 LiWS01 sudo: pam_unix(sudo:session): session closed for user root
+Jul 03 09:04:02 LiWS01 sudo: woreilly : TTY=pts/0 ; PWD=/home/woreilly ; USER=root ; COMMAND=/usr/bin/apt upgrade -y
+Jul 03 09:04:02 LiWS01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by woreilly(uid=1000)
+Jul 03 09:04:07 LiWS01 sudo: pam_unix(sudo:session): session closed for user root
+Jul 03 09:05:01 LiWS01 CRON[2467]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:05:03 LiWS01 CRON[2467]: pam_unix(cron:session): session closed for user root
+Jul 03 09:10:02 LiWS01 CRON[7378]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:10:03 LiWS01 CRON[7378]: pam_unix(cron:session): session closed for user root
+Jul 03 09:15:01 LiWS01 CRON[4223]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:15:02 LiWS01 CRON[4223]: pam_unix(cron:session): session closed for user root
+Jul 03 09:17:05 LiWS01 CRON[2463]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:17:06 LiWS01 CRON[2463]: pam_unix(cron:session): session closed for user root
+Jul 03 09:20:03 LiWS01 CRON[4362]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:20:04 LiWS01 CRON[4362]: pam_unix(cron:session): session closed for user root
+Jul 03 09:25:03 LiWS01 CRON[4690]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:25:04 LiWS01 CRON[4690]: pam_unix(cron:session): session closed for user root
+Jul 03 09:30:00 LiWS01 CRON[6124]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:30:02 LiWS01 CRON[6124]: pam_unix(cron:session): session closed for user root
+Jul 03 09:35:02 LiWS01 CRON[5505]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:35:04 LiWS01 CRON[5505]: pam_unix(cron:session): session closed for user root
+Jul 03 09:40:01 LiWS01 CRON[3674]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:40:02 LiWS01 CRON[3674]: pam_unix(cron:session): session closed for user root
+Jul 03 09:45:00 LiWS01 CRON[6914]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:45:01 LiWS01 CRON[6914]: pam_unix(cron:session): session closed for user root
+Jul 03 09:50:03 LiWS01 CRON[2984]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:50:04 LiWS01 CRON[2984]: pam_unix(cron:session): session closed for user root
+Jul 03 09:55:02 LiWS01 CRON[3538]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 09:55:04 LiWS01 CRON[3538]: pam_unix(cron:session): session closed for user root
+Jul 03 10:00:00 LiWS01 CRON[8010]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:00:02 LiWS01 CRON[8010]: pam_unix(cron:session): session closed for user root
+Jul 03 10:05:00 LiWS01 CRON[5134]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:05:01 LiWS01 CRON[5134]: pam_unix(cron:session): session closed for user root
+Jul 03 10:10:02 LiWS01 CRON[4611]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:10:04 LiWS01 CRON[4611]: pam_unix(cron:session): session closed for user root
+Jul 03 10:15:02 LiWS01 CRON[7293]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:15:04 LiWS01 CRON[7293]: pam_unix(cron:session): session closed for user root
+Jul 03 10:17:05 LiWS01 CRON[8454]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:17:06 LiWS01 CRON[8454]: pam_unix(cron:session): session closed for user root
+Jul 03 10:20:00 LiWS01 CRON[8534]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:20:01 LiWS01 CRON[8534]: pam_unix(cron:session): session closed for user root
+Jul 03 10:25:00 LiWS01 CRON[7628]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:25:02 LiWS01 CRON[7628]: pam_unix(cron:session): session closed for user root
+Jul 03 10:30:00 LiWS01 CRON[7552]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:30:01 LiWS01 CRON[7552]: pam_unix(cron:session): session closed for user root
+Jul 03 10:35:02 LiWS01 CRON[5367]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:35:03 LiWS01 CRON[5367]: pam_unix(cron:session): session closed for user root
+Jul 03 10:40:01 LiWS01 CRON[4854]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:40:03 LiWS01 CRON[4854]: pam_unix(cron:session): session closed for user root
+Jul 03 10:45:03 LiWS01 CRON[8747]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:45:04 LiWS01 CRON[8747]: pam_unix(cron:session): session closed for user root
+Jul 03 10:50:01 LiWS01 CRON[7208]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:50:03 LiWS01 CRON[7208]: pam_unix(cron:session): session closed for user root
+Jul 03 10:55:02 LiWS01 CRON[5314]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 10:55:03 LiWS01 CRON[5314]: pam_unix(cron:session): session closed for user root
+Jul 03 10:56:29 LiWS01 polkitd(authority=local)[740]: Operator of unix-session:2 successfully authenticated as unix-user:woreilly to gain ONE-SHOT authorization for action org.freedesktop.packagekit.system-update
+Jul 03 11:00:02 LiWS01 CRON[7910]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:00:04 LiWS01 CRON[7910]: pam_unix(cron:session): session closed for user root
+Jul 03 11:02:08 LiWS01 sudo: pam_unix(sudo:auth): authentication failure; logname=woreilly uid=1000 euid=0 tty=/dev/pts/0 ruser=woreilly rhost=  user=woreilly
+Jul 03 11:02:14 LiWS01 sudo: woreilly : 1 incorrect password attempt ; TTY=pts/0 ; PWD=/home/woreilly ; USER=root ; COMMAND=/usr/bin/systemctl status cups
+Jul 03 11:05:03 LiWS01 CRON[6499]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:05:04 LiWS01 CRON[6499]: pam_unix(cron:session): session closed for user root
+Jul 03 11:10:01 LiWS01 CRON[3494]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:10:03 LiWS01 CRON[3494]: pam_unix(cron:session): session closed for user root
+Jul 03 11:15:03 LiWS01 CRON[5693]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:15:04 LiWS01 CRON[5693]: pam_unix(cron:session): session closed for user root
+Jul 03 11:17:04 LiWS01 CRON[5282]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:17:05 LiWS01 CRON[5282]: pam_unix(cron:session): session closed for user root
+Jul 03 11:20:00 LiWS01 CRON[4367]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:20:01 LiWS01 CRON[4367]: pam_unix(cron:session): session closed for user root
+Jul 03 11:25:03 LiWS01 CRON[5958]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:25:04 LiWS01 CRON[5958]: pam_unix(cron:session): session closed for user root
+Jul 03 11:30:00 LiWS01 CRON[5409]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:30:02 LiWS01 CRON[5409]: pam_unix(cron:session): session closed for user root
+Jul 03 11:35:00 LiWS01 CRON[5456]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:35:02 LiWS01 CRON[5456]: pam_unix(cron:session): session closed for user root
+Jul 03 11:40:01 LiWS01 CRON[1763]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:40:02 LiWS01 CRON[1763]: pam_unix(cron:session): session closed for user root
+Jul 03 11:45:03 LiWS01 CRON[8625]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:45:05 LiWS01 CRON[8625]: pam_unix(cron:session): session closed for user root
+Jul 03 11:50:03 LiWS01 CRON[8543]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:50:05 LiWS01 CRON[8543]: pam_unix(cron:session): session closed for user root
+Jul 03 11:55:03 LiWS01 CRON[3017]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 11:55:05 LiWS01 CRON[3017]: pam_unix(cron:session): session closed for user root
+Jul 03 12:00:03 LiWS01 CRON[4552]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:00:05 LiWS01 CRON[4552]: pam_unix(cron:session): session closed for user root
+Jul 03 12:00:23 LiWS01 gdm-password: pam_unix(gdm-password:auth): authentication success; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=woreilly
+Jul 03 12:05:01 LiWS01 CRON[1889]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:05:03 LiWS01 CRON[1889]: pam_unix(cron:session): session closed for user root
+Jul 03 12:10:00 LiWS01 CRON[6061]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:10:02 LiWS01 CRON[6061]: pam_unix(cron:session): session closed for user root
+Jul 03 12:15:00 LiWS01 CRON[2060]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:15:01 LiWS01 CRON[2060]: pam_unix(cron:session): session closed for user root
+Jul 03 12:17:02 LiWS01 CRON[2040]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:17:03 LiWS01 CRON[2040]: pam_unix(cron:session): session closed for user root
+Jul 03 12:20:01 LiWS01 CRON[2590]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:20:02 LiWS01 CRON[2590]: pam_unix(cron:session): session closed for user root
+Jul 03 12:25:02 LiWS01 CRON[1096]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:25:04 LiWS01 CRON[1096]: pam_unix(cron:session): session closed for user root
+Jul 03 12:30:02 LiWS01 CRON[6927]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:30:03 LiWS01 CRON[6927]: pam_unix(cron:session): session closed for user root
+Jul 03 12:35:03 LiWS01 CRON[6077]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:35:04 LiWS01 CRON[6077]: pam_unix(cron:session): session closed for user root
+Jul 03 12:40:00 LiWS01 CRON[5093]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:40:02 LiWS01 CRON[5093]: pam_unix(cron:session): session closed for user root
+Jul 03 12:45:01 LiWS01 CRON[6879]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:45:03 LiWS01 CRON[6879]: pam_unix(cron:session): session closed for user root
+Jul 03 12:50:03 LiWS01 CRON[1190]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:50:05 LiWS01 CRON[1190]: pam_unix(cron:session): session closed for user root
+Jul 03 12:55:01 LiWS01 CRON[7759]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 12:55:02 LiWS01 CRON[7759]: pam_unix(cron:session): session closed for user root
+Jul 03 13:00:01 LiWS01 CRON[5374]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:00:02 LiWS01 CRON[5374]: pam_unix(cron:session): session closed for user root
+Jul 03 13:05:01 LiWS01 CRON[7973]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:05:02 LiWS01 CRON[7973]: pam_unix(cron:session): session closed for user root
+Jul 03 13:10:02 LiWS01 CRON[8494]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:10:03 LiWS01 CRON[8494]: pam_unix(cron:session): session closed for user root
+Jul 03 13:15:02 LiWS01 CRON[3587]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:15:03 LiWS01 CRON[3587]: pam_unix(cron:session): session closed for user root
+Jul 03 13:17:05 LiWS01 CRON[8076]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:17:06 LiWS01 CRON[8076]: pam_unix(cron:session): session closed for user root
+Jul 03 13:20:01 LiWS01 CRON[2787]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:20:02 LiWS01 CRON[2787]: pam_unix(cron:session): session closed for user root
+Jul 03 13:25:01 LiWS01 CRON[2097]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:25:02 LiWS01 CRON[2097]: pam_unix(cron:session): session closed for user root
+Jul 03 13:30:00 LiWS01 CRON[6952]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:30:02 LiWS01 CRON[6952]: pam_unix(cron:session): session closed for user root
+Jul 03 13:35:00 LiWS01 CRON[4177]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:35:02 LiWS01 CRON[4177]: pam_unix(cron:session): session closed for user root
+Jul 03 13:40:03 LiWS01 CRON[7817]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:40:04 LiWS01 CRON[7817]: pam_unix(cron:session): session closed for user root
+Jul 03 13:41:55 LiWS01 sudo: woreilly : TTY=pts/0 ; PWD=/home/woreilly ; USER=root ; COMMAND=/usr/bin/apt install -y htop
+Jul 03 13:41:55 LiWS01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by woreilly(uid=1000)
+Jul 03 13:42:24 LiWS01 sudo: pam_unix(sudo:session): session closed for user root
+Jul 03 13:45:03 LiWS01 CRON[2643]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:45:04 LiWS01 CRON[2643]: pam_unix(cron:session): session closed for user root
+Jul 03 13:50:01 LiWS01 CRON[1786]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:50:03 LiWS01 CRON[1786]: pam_unix(cron:session): session closed for user root
+Jul 03 13:55:02 LiWS01 CRON[8465]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 13:55:03 LiWS01 CRON[8465]: pam_unix(cron:session): session closed for user root
+Jul 03 14:00:02 LiWS01 CRON[6199]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:00:03 LiWS01 CRON[6199]: pam_unix(cron:session): session closed for user root
+Jul 03 14:05:00 LiWS01 CRON[7576]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:05:02 LiWS01 CRON[7576]: pam_unix(cron:session): session closed for user root
+Jul 03 14:10:00 LiWS01 CRON[1869]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:10:01 LiWS01 CRON[1869]: pam_unix(cron:session): session closed for user root
+Jul 03 14:15:03 LiWS01 CRON[7242]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:15:04 LiWS01 CRON[7242]: pam_unix(cron:session): session closed for user root
+Jul 03 14:17:04 LiWS01 CRON[6772]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:17:05 LiWS01 CRON[6772]: pam_unix(cron:session): session closed for user root
+Jul 03 14:20:01 LiWS01 CRON[2552]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:20:02 LiWS01 CRON[2552]: pam_unix(cron:session): session closed for user root
+Jul 03 14:25:01 LiWS01 CRON[2670]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:25:02 LiWS01 CRON[2670]: pam_unix(cron:session): session closed for user root
+Jul 03 14:30:00 LiWS01 CRON[3319]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:30:01 LiWS01 CRON[3319]: pam_unix(cron:session): session closed for user root
+Jul 03 14:34:40 LiWS01 polkitd(authority=local)[740]: Operator of unix-session:2 successfully authenticated as unix-user:woreilly to gain ONE-SHOT authorization for action org.freedesktop.packagekit.system-update
+Jul 03 14:35:03 LiWS01 CRON[2101]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:35:04 LiWS01 CRON[2101]: pam_unix(cron:session): session closed for user root
+Jul 03 14:40:00 LiWS01 CRON[7264]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:40:02 LiWS01 CRON[7264]: pam_unix(cron:session): session closed for user root
+Jul 03 14:45:03 LiWS01 CRON[4202]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:45:05 LiWS01 CRON[4202]: pam_unix(cron:session): session closed for user root
+Jul 03 14:50:02 LiWS01 CRON[5221]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:50:04 LiWS01 CRON[5221]: pam_unix(cron:session): session closed for user root
+Jul 03 14:55:02 LiWS01 CRON[2721]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 14:55:03 LiWS01 CRON[2721]: pam_unix(cron:session): session closed for user root
+Jul 03 15:00:01 LiWS01 CRON[1334]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:00:02 LiWS01 CRON[1334]: pam_unix(cron:session): session closed for user root
+Jul 03 15:00:45 LiWS01 gdm-password: pam_unix(gdm-password:auth): authentication success; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=woreilly
+Jul 03 15:05:03 LiWS01 CRON[4341]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:05:05 LiWS01 CRON[4341]: pam_unix(cron:session): session closed for user root
+Jul 03 15:10:02 LiWS01 CRON[7056]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:10:04 LiWS01 CRON[7056]: pam_unix(cron:session): session closed for user root
+Jul 03 15:15:01 LiWS01 CRON[8551]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:15:02 LiWS01 CRON[8551]: pam_unix(cron:session): session closed for user root
+Jul 03 15:17:05 LiWS01 CRON[6193]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:17:06 LiWS01 CRON[6193]: pam_unix(cron:session): session closed for user root
+Jul 03 15:20:00 LiWS01 CRON[1776]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:20:02 LiWS01 CRON[1776]: pam_unix(cron:session): session closed for user root
+Jul 03 15:25:00 LiWS01 CRON[8316]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:25:02 LiWS01 CRON[8316]: pam_unix(cron:session): session closed for user root
+Jul 03 15:30:01 LiWS01 CRON[5666]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:30:03 LiWS01 CRON[5666]: pam_unix(cron:session): session closed for user root
+Jul 03 15:35:02 LiWS01 CRON[7593]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:35:04 LiWS01 CRON[7593]: pam_unix(cron:session): session closed for user root
+Jul 03 15:40:00 LiWS01 CRON[8465]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:40:01 LiWS01 CRON[8465]: pam_unix(cron:session): session closed for user root
+Jul 03 15:45:03 LiWS01 CRON[7673]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:45:04 LiWS01 CRON[7673]: pam_unix(cron:session): session closed for user root
+Jul 03 15:50:02 LiWS01 CRON[8344]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:50:04 LiWS01 CRON[8344]: pam_unix(cron:session): session closed for user root
+Jul 03 15:55:03 LiWS01 CRON[7285]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 15:55:04 LiWS01 CRON[7285]: pam_unix(cron:session): session closed for user root
+Jul 03 16:00:01 LiWS01 CRON[6919]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:00:02 LiWS01 CRON[6919]: pam_unix(cron:session): session closed for user root
+Jul 03 16:05:02 LiWS01 CRON[7531]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:05:04 LiWS01 CRON[7531]: pam_unix(cron:session): session closed for user root
+Jul 03 16:10:00 LiWS01 CRON[4840]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:10:01 LiWS01 CRON[4840]: pam_unix(cron:session): session closed for user root
+Jul 03 16:15:02 LiWS01 CRON[8274]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:15:03 LiWS01 CRON[8274]: pam_unix(cron:session): session closed for user root
+Jul 03 16:17:01 LiWS01 CRON[4323]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:17:02 LiWS01 CRON[4323]: pam_unix(cron:session): session closed for user root
+Jul 03 16:20:02 LiWS01 CRON[2901]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:20:04 LiWS01 CRON[2901]: pam_unix(cron:session): session closed for user root
+Jul 03 16:22:09 LiWS01 sudo: woreilly : TTY=pts/0 ; PWD=/home/woreilly ; USER=root ; COMMAND=/usr/bin/apt update
+Jul 03 16:22:09 LiWS01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by woreilly(uid=1000)
+Jul 03 16:22:19 LiWS01 sudo: pam_unix(sudo:session): session closed for user root
+Jul 03 16:25:01 LiWS01 CRON[3767]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:25:03 LiWS01 CRON[3767]: pam_unix(cron:session): session closed for user root
+Jul 03 16:30:01 LiWS01 CRON[5665]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:30:02 LiWS01 CRON[5665]: pam_unix(cron:session): session closed for user root
+Jul 03 16:35:03 LiWS01 CRON[4191]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:35:04 LiWS01 CRON[4191]: pam_unix(cron:session): session closed for user root
+Jul 03 16:40:00 LiWS01 CRON[6744]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:40:02 LiWS01 CRON[6744]: pam_unix(cron:session): session closed for user root
+Jul 03 16:45:00 LiWS01 CRON[5709]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:45:01 LiWS01 CRON[5709]: pam_unix(cron:session): session closed for user root
+Jul 03 16:50:00 LiWS01 CRON[6041]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:50:01 LiWS01 CRON[6041]: pam_unix(cron:session): session closed for user root
+Jul 03 16:55:03 LiWS01 CRON[3102]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 16:55:05 LiWS01 CRON[3102]: pam_unix(cron:session): session closed for user root
+Jul 03 17:00:01 LiWS01 CRON[7236]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:00:03 LiWS01 CRON[7236]: pam_unix(cron:session): session closed for user root
+Jul 03 17:05:00 LiWS01 CRON[1088]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:05:02 LiWS01 CRON[1088]: pam_unix(cron:session): session closed for user root
+Jul 03 17:10:02 LiWS01 CRON[3055]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:10:04 LiWS01 CRON[3055]: pam_unix(cron:session): session closed for user root
+Jul 03 17:15:03 LiWS01 CRON[5506]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:15:04 LiWS01 CRON[5506]: pam_unix(cron:session): session closed for user root
+Jul 03 17:17:00 LiWS01 CRON[5135]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:17:01 LiWS01 CRON[5135]: pam_unix(cron:session): session closed for user root
+Jul 03 17:20:03 LiWS01 CRON[6226]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:20:04 LiWS01 CRON[6226]: pam_unix(cron:session): session closed for user root
+Jul 03 17:25:00 LiWS01 CRON[5500]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:25:02 LiWS01 CRON[5500]: pam_unix(cron:session): session closed for user root
+Jul 03 17:30:01 LiWS01 CRON[8619]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:30:03 LiWS01 CRON[8619]: pam_unix(cron:session): session closed for user root
+Jul 03 17:35:01 LiWS01 CRON[4864]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:35:03 LiWS01 CRON[4864]: pam_unix(cron:session): session closed for user root
+Jul 03 17:40:00 LiWS01 CRON[5439]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:40:02 LiWS01 CRON[5439]: pam_unix(cron:session): session closed for user root
+Jul 03 17:45:03 LiWS01 CRON[8743]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:45:05 LiWS01 CRON[8743]: pam_unix(cron:session): session closed for user root
+Jul 03 17:50:03 LiWS01 CRON[3330]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:50:05 LiWS01 CRON[3330]: pam_unix(cron:session): session closed for user root
+Jul 03 17:55:02 LiWS01 CRON[3994]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 17:55:04 LiWS01 CRON[3994]: pam_unix(cron:session): session closed for user root
+Jul 03 18:00:02 LiWS01 CRON[5592]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:00:04 LiWS01 CRON[5592]: pam_unix(cron:session): session closed for user root
+Jul 03 18:01:33 LiWS01 polkitd(authority=local)[740]: Operator of unix-session:2 successfully authenticated as unix-user:woreilly to gain ONE-SHOT authorization for action org.freedesktop.packagekit.system-update
+Jul 03 18:05:00 LiWS01 CRON[1220]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:05:01 LiWS01 CRON[1220]: pam_unix(cron:session): session closed for user root
+Jul 03 18:10:00 LiWS01 CRON[5798]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:10:01 LiWS01 CRON[5798]: pam_unix(cron:session): session closed for user root
+Jul 03 18:15:03 LiWS01 CRON[4348]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:15:04 LiWS01 CRON[4348]: pam_unix(cron:session): session closed for user root
+Jul 03 18:17:02 LiWS01 CRON[6366]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:17:03 LiWS01 CRON[6366]: pam_unix(cron:session): session closed for user root
+Jul 03 18:20:02 LiWS01 CRON[8352]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:20:04 LiWS01 CRON[8352]: pam_unix(cron:session): session closed for user root
+Jul 03 18:25:02 LiWS01 CRON[1410]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:25:03 LiWS01 CRON[1410]: pam_unix(cron:session): session closed for user root
+Jul 03 18:30:01 LiWS01 CRON[7533]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:30:03 LiWS01 CRON[7533]: pam_unix(cron:session): session closed for user root
+Jul 03 18:35:03 LiWS01 CRON[6891]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:35:05 LiWS01 CRON[6891]: pam_unix(cron:session): session closed for user root
+Jul 03 18:40:01 LiWS01 CRON[8972]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:40:02 LiWS01 CRON[8972]: pam_unix(cron:session): session closed for user root
+Jul 03 18:45:00 LiWS01 CRON[5287]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:45:02 LiWS01 CRON[5287]: pam_unix(cron:session): session closed for user root
+Jul 03 18:50:01 LiWS01 CRON[2182]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:50:02 LiWS01 CRON[2182]: pam_unix(cron:session): session closed for user root
+Jul 03 18:55:03 LiWS01 CRON[1412]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 18:55:05 LiWS01 CRON[1412]: pam_unix(cron:session): session closed for user root
+Jul 03 19:00:00 LiWS01 CRON[8054]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:00:02 LiWS01 CRON[8054]: pam_unix(cron:session): session closed for user root
+Jul 03 19:05:01 LiWS01 CRON[5326]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:05:02 LiWS01 CRON[5326]: pam_unix(cron:session): session closed for user root
+Jul 03 19:10:03 LiWS01 CRON[3976]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:10:04 LiWS01 CRON[3976]: pam_unix(cron:session): session closed for user root
+Jul 03 19:15:03 LiWS01 CRON[6471]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:15:05 LiWS01 CRON[6471]: pam_unix(cron:session): session closed for user root
+Jul 03 19:17:01 LiWS01 CRON[1966]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:17:02 LiWS01 CRON[1966]: pam_unix(cron:session): session closed for user root
+Jul 03 19:20:02 LiWS01 CRON[5923]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:20:04 LiWS01 CRON[5923]: pam_unix(cron:session): session closed for user root
+Jul 03 19:25:01 LiWS01 CRON[3982]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:25:03 LiWS01 CRON[3982]: pam_unix(cron:session): session closed for user root
+Jul 03 19:30:01 LiWS01 CRON[7015]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:30:02 LiWS01 CRON[7015]: pam_unix(cron:session): session closed for user root
+Jul 03 19:35:00 LiWS01 CRON[4941]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:35:02 LiWS01 CRON[4941]: pam_unix(cron:session): session closed for user root
+Jul 03 19:40:02 LiWS01 CRON[7425]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:40:04 LiWS01 CRON[7425]: pam_unix(cron:session): session closed for user root
+Jul 03 19:45:01 LiWS01 CRON[3224]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:45:03 LiWS01 CRON[3224]: pam_unix(cron:session): session closed for user root
+Jul 03 19:46:29 LiWS01 sudo: woreilly : TTY=pts/0 ; PWD=/home/woreilly/Downloads ; USER=root ; COMMAND=./youtube_downloader.elf
+Jul 03 19:46:29 LiWS01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by woreilly(uid=1000)
+Jul 03 19:47:39 LiWS01 sudo: woreilly : TTY=pts/1 ; PWD=/var/www ; USER=root ; COMMAND=/usr/bin/mkdir www
+Jul 03 19:47:39 LiWS01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by woreilly(uid=1000)
+Jul 03 19:47:40 LiWS01 sudo: pam_unix(sudo:session): session closed for user root
+Jul 03 19:48:03 LiWS01 sudo: woreilly : TTY=pts/1 ; PWD=/var/www/www ; USER=root ; COMMAND=/usr/bin/mkdir html
+Jul 03 19:48:03 LiWS01 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by woreilly(uid=1000)
+Jul 03 19:48:04 LiWS01 sudo: pam_unix(sudo:session): session closed for user root
+Jul 03 19:50:01 LiWS01 CRON[7171]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:50:02 LiWS01 CRON[7171]: pam_unix(cron:session): session closed for user root
+Jul 03 19:55:01 LiWS01 CRON[8797]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 19:55:02 LiWS01 CRON[8797]: pam_unix(cron:session): session closed for user root
+Jul 03 20:00:00 LiWS01 CRON[1323]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:00:01 LiWS01 CRON[1323]: pam_unix(cron:session): session closed for user root
+Jul 03 20:05:02 LiWS01 CRON[3219]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:05:04 LiWS01 CRON[3219]: pam_unix(cron:session): session closed for user root
+Jul 03 20:10:00 LiWS01 CRON[1220]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:10:01 LiWS01 CRON[1220]: pam_unix(cron:session): session closed for user root
+Jul 03 20:15:02 LiWS01 CRON[2823]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:15:03 LiWS01 CRON[2823]: pam_unix(cron:session): session closed for user root
+Jul 03 20:17:05 LiWS01 CRON[8198]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:17:06 LiWS01 CRON[8198]: pam_unix(cron:session): session closed for user root
+Jul 03 20:20:00 LiWS01 CRON[7191]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:20:01 LiWS01 CRON[7191]: pam_unix(cron:session): session closed for user root
+Jul 03 20:25:01 LiWS01 CRON[5510]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:25:03 LiWS01 CRON[5510]: pam_unix(cron:session): session closed for user root
+Jul 03 20:30:03 LiWS01 CRON[4965]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:30:05 LiWS01 CRON[4965]: pam_unix(cron:session): session closed for user root
+Jul 03 20:35:02 LiWS01 CRON[2725]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:35:04 LiWS01 CRON[2725]: pam_unix(cron:session): session closed for user root
+Jul 03 20:40:01 LiWS01 CRON[5050]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:40:02 LiWS01 CRON[5050]: pam_unix(cron:session): session closed for user root
+Jul 03 20:45:00 LiWS01 CRON[7572]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:45:02 LiWS01 CRON[7572]: pam_unix(cron:session): session closed for user root
+Jul 03 20:50:01 LiWS01 CRON[7628]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:50:03 LiWS01 CRON[7628]: pam_unix(cron:session): session closed for user root
+Jul 03 20:55:02 LiWS01 CRON[4476]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 20:55:04 LiWS01 CRON[4476]: pam_unix(cron:session): session closed for user root
+Jul 03 21:00:01 LiWS01 CRON[4022]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:00:03 LiWS01 CRON[4022]: pam_unix(cron:session): session closed for user root
+Jul 03 21:05:01 LiWS01 CRON[3382]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:05:03 LiWS01 CRON[3382]: pam_unix(cron:session): session closed for user root
+Jul 03 21:10:02 LiWS01 CRON[6355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:10:03 LiWS01 CRON[6355]: pam_unix(cron:session): session closed for user root
+Jul 03 21:15:02 LiWS01 CRON[4784]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:15:03 LiWS01 CRON[4784]: pam_unix(cron:session): session closed for user root
+Jul 03 21:17:01 LiWS01 CRON[7634]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:17:02 LiWS01 CRON[7634]: pam_unix(cron:session): session closed for user root
+Jul 03 21:20:00 LiWS01 CRON[5453]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:20:02 LiWS01 CRON[5453]: pam_unix(cron:session): session closed for user root
+Jul 03 21:25:03 LiWS01 CRON[5622]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:25:05 LiWS01 CRON[5622]: pam_unix(cron:session): session closed for user root
+Jul 03 21:30:00 LiWS01 CRON[3448]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:30:01 LiWS01 CRON[3448]: pam_unix(cron:session): session closed for user root
+Jul 03 21:35:01 LiWS01 CRON[3540]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:35:02 LiWS01 CRON[3540]: pam_unix(cron:session): session closed for user root
+Jul 03 21:40:02 LiWS01 CRON[6694]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:40:04 LiWS01 CRON[6694]: pam_unix(cron:session): session closed for user root
+Jul 03 21:45:02 LiWS01 CRON[6939]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:45:04 LiWS01 CRON[6939]: pam_unix(cron:session): session closed for user root
+Jul 03 21:50:01 LiWS01 CRON[8222]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:50:02 LiWS01 CRON[8222]: pam_unix(cron:session): session closed for user root
+Jul 03 21:55:02 LiWS01 CRON[3931]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 21:55:04 LiWS01 CRON[3931]: pam_unix(cron:session): session closed for user root
+Jul 03 22:00:03 LiWS01 CRON[3641]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:00:05 LiWS01 CRON[3641]: pam_unix(cron:session): session closed for user root
+Jul 03 22:05:02 LiWS01 CRON[4588]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:05:04 LiWS01 CRON[4588]: pam_unix(cron:session): session closed for user root
+Jul 03 22:10:01 LiWS01 CRON[3601]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:10:03 LiWS01 CRON[3601]: pam_unix(cron:session): session closed for user root
+Jul 03 22:15:01 LiWS01 CRON[8927]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:15:02 LiWS01 CRON[8927]: pam_unix(cron:session): session closed for user root
+Jul 03 22:17:00 LiWS01 CRON[8424]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:17:01 LiWS01 CRON[8424]: pam_unix(cron:session): session closed for user root
+Jul 03 22:20:02 LiWS01 CRON[3962]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:20:03 LiWS01 CRON[3962]: pam_unix(cron:session): session closed for user root
+Jul 03 22:25:03 LiWS01 CRON[3976]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:25:05 LiWS01 CRON[3976]: pam_unix(cron:session): session closed for user root
+Jul 03 22:30:01 LiWS01 CRON[7521]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:30:03 LiWS01 CRON[7521]: pam_unix(cron:session): session closed for user root
+Jul 03 22:35:03 LiWS01 CRON[7529]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:35:04 LiWS01 CRON[7529]: pam_unix(cron:session): session closed for user root
+Jul 03 22:40:01 LiWS01 CRON[7851]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:40:02 LiWS01 CRON[7851]: pam_unix(cron:session): session closed for user root
+Jul 03 22:45:03 LiWS01 CRON[1735]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:45:05 LiWS01 CRON[1735]: pam_unix(cron:session): session closed for user root
+Jul 03 22:50:00 LiWS01 CRON[7650]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:50:01 LiWS01 CRON[7650]: pam_unix(cron:session): session closed for user root
+Jul 03 22:55:00 LiWS01 CRON[5224]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 22:55:01 LiWS01 CRON[5224]: pam_unix(cron:session): session closed for user root
+Jul 03 23:00:00 LiWS01 CRON[8916]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:00:02 LiWS01 CRON[8916]: pam_unix(cron:session): session closed for user root
+Jul 03 23:05:02 LiWS01 CRON[1524]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:05:03 LiWS01 CRON[1524]: pam_unix(cron:session): session closed for user root
+Jul 03 23:10:00 LiWS01 CRON[3740]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:10:02 LiWS01 CRON[3740]: pam_unix(cron:session): session closed for user root
+Jul 03 23:15:00 LiWS01 CRON[7037]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:15:02 LiWS01 CRON[7037]: pam_unix(cron:session): session closed for user root
+Jul 03 23:17:02 LiWS01 CRON[5648]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:17:03 LiWS01 CRON[5648]: pam_unix(cron:session): session closed for user root
+Jul 03 23:20:00 LiWS01 CRON[1693]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:20:01 LiWS01 CRON[1693]: pam_unix(cron:session): session closed for user root
+Jul 03 23:25:03 LiWS01 CRON[1798]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:25:04 LiWS01 CRON[1798]: pam_unix(cron:session): session closed for user root
+Jul 03 23:30:01 LiWS01 CRON[6834]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:30:03 LiWS01 CRON[6834]: pam_unix(cron:session): session closed for user root
+Jul 03 23:35:02 LiWS01 CRON[7269]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:35:04 LiWS01 CRON[7269]: pam_unix(cron:session): session closed for user root
+Jul 03 23:40:02 LiWS01 CRON[4230]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:40:04 LiWS01 CRON[4230]: pam_unix(cron:session): session closed for user root
+Jul 03 23:45:02 LiWS01 CRON[7613]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:45:03 LiWS01 CRON[7613]: pam_unix(cron:session): session closed for user root
+Jul 03 23:50:03 LiWS01 CRON[5044]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:50:04 LiWS01 CRON[5044]: pam_unix(cron:session): session closed for user root
+Jul 03 23:55:00 LiWS01 CRON[6801]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jul 03 23:55:02 LiWS01 CRON[6801]: pam_unix(cron:session): session closed for user root

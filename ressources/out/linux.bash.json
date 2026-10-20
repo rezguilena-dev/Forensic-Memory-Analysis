@@ -1,0 +1,199 @@
+
+[
+  {
+    "Command": "sudo apt dist-upgrade",
+    "CommandTime": "2024-07-03T19:40:49+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt upgrade",
+    "CommandTime": "2024-07-03T19:40:49+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt update",
+    "CommandTime": "2024-07-03T19:40:49+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt install open-vm-tools-desktop",
+    "CommandTime": "2024-07-03T19:40:49+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt upgrade",
+    "CommandTime": "2024-07-03T19:40:49+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "exit",
+    "CommandTime": "2024-07-03T19:40:49+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt update",
+    "CommandTime": "2024-07-03T19:40:49+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "cd Downloads/",
+    "CommandTime": "2024-07-03T19:45:41+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "ls",
+    "CommandTime": "2024-07-03T19:45:43+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "chmod 755 youtube_downloader.elf ",
+    "CommandTime": "2024-07-03T19:45:48+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "ls -al",
+    "CommandTime": "2024-07-03T19:45:53+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo ./youtube_downloader.elf ",
+    "CommandTime": "2024-07-03T19:45:58+00:00",
+    "PID": 4453,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt dist-upgrade",
+    "CommandTime": "2024-07-03T19:47:23+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt upgrade",
+    "CommandTime": "2024-07-03T19:47:23+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt update",
+    "CommandTime": "2024-07-03T19:47:23+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt install open-vm-tools-desktop",
+    "CommandTime": "2024-07-03T19:47:23+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt upgrade",
+    "CommandTime": "2024-07-03T19:47:23+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "exit",
+    "CommandTime": "2024-07-03T19:47:23+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt autoremove -y",
+    "CommandTime": "2024-07-03T19:47:23+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo apt update",
+    "CommandTime": "2024-07-03T19:47:23+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "cd /var/www",
+    "CommandTime": "2024-07-03T19:47:30+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "cd /var",
+    "CommandTime": "2024-07-03T19:47:32+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "mkdir www",
+    "CommandTime": "2024-07-03T19:47:35+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo mkdir www",
+    "CommandTime": "2024-07-03T19:47:39+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "cd www",
+    "CommandTime": "2024-07-03T19:47:59+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "sudo mkdir html",
+    "CommandTime": "2024-07-03T19:48:03+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "cd html",
+    "CommandTime": "2024-07-03T19:48:07+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  },
+  {
+    "Command": "subl index.html",
+    "CommandTime": "2024-07-03T20:02:53+00:00",
+    "PID": 4954,
+    "Process": "bash",
+    "__children": []
+  }
+]

@@ -1,0 +1,2411 @@
+
+[
+  {
+    "ARGS": "/sbin/init splash",
+    "COMM": "systemd",
+    "PID": 1,
+    "PPID": 0,
+    "__children": []
+  },
+  {
+    "ARGS": "[kthreadd]",
+    "COMM": "kthreadd",
+    "PID": 2,
+    "PPID": 0,
+    "__children": []
+  },
+  {
+    "ARGS": "[rcu_gp]",
+    "COMM": "rcu_gp",
+    "PID": 3,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[rcu_par_gp]",
+    "COMM": "rcu_par_gp",
+    "PID": 4,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[slub_flushwq]",
+    "COMM": "slub_flushwq",
+    "PID": 5,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[netns]",
+    "COMM": "netns",
+    "PID": 6,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[mm_percpu_wq]",
+    "COMM": "mm_percpu_wq",
+    "PID": 11,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[rcu_tasks_kthre]",
+    "COMM": "rcu_tasks_kthre",
+    "PID": 12,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[rcu_tasks_rude_]",
+    "COMM": "rcu_tasks_rude_",
+    "PID": 13,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[rcu_tasks_trace]",
+    "COMM": "rcu_tasks_trace",
+    "PID": 14,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[ksoftirqd/0]",
+    "COMM": "ksoftirqd/0",
+    "PID": 15,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[rcu_preempt]",
+    "COMM": "rcu_preempt",
+    "PID": 16,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[migration/0]",
+    "COMM": "migration/0",
+    "PID": 17,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[idle_inject/0]",
+    "COMM": "idle_inject/0",
+    "PID": 18,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[cpuhp/0]",
+    "COMM": "cpuhp/0",
+    "PID": 19,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[cpuhp/1]",
+    "COMM": "cpuhp/1",
+    "PID": 20,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[idle_inject/1]",
+    "COMM": "idle_inject/1",
+    "PID": 21,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[migration/1]",
+    "COMM": "migration/1",
+    "PID": 22,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[ksoftirqd/1]",
+    "COMM": "ksoftirqd/1",
+    "PID": 23,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kdevtmpfs]",
+    "COMM": "kdevtmpfs",
+    "PID": 26,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[inet_frag_wq]",
+    "COMM": "inet_frag_wq",
+    "PID": 27,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kauditd]",
+    "COMM": "kauditd",
+    "PID": 29,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[khungtaskd]",
+    "COMM": "khungtaskd",
+    "PID": 30,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[oom_reaper]",
+    "COMM": "oom_reaper",
+    "PID": 31,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[writeback]",
+    "COMM": "writeback",
+    "PID": 32,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kcompactd0]",
+    "COMM": "kcompactd0",
+    "PID": 33,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[ksmd]",
+    "COMM": "ksmd",
+    "PID": 34,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[khugepaged]",
+    "COMM": "khugepaged",
+    "PID": 35,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kintegrityd]",
+    "COMM": "kintegrityd",
+    "PID": 36,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kblockd]",
+    "COMM": "kblockd",
+    "PID": 37,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[blkcg_punt_bio]",
+    "COMM": "blkcg_punt_bio",
+    "PID": 38,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[tpm_dev_wq]",
+    "COMM": "tpm_dev_wq",
+    "PID": 39,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[ata_sff]",
+    "COMM": "ata_sff",
+    "PID": 40,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[md]",
+    "COMM": "md",
+    "PID": 41,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[md_bitmap]",
+    "COMM": "md_bitmap",
+    "PID": 42,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[edac-poller]",
+    "COMM": "edac-poller",
+    "PID": 43,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[devfreq_wq]",
+    "COMM": "devfreq_wq",
+    "PID": 44,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[watchdogd]",
+    "COMM": "watchdogd",
+    "PID": 45,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kswapd0]",
+    "COMM": "kswapd0",
+    "PID": 48,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[ecryptfs-kthrea]",
+    "COMM": "ecryptfs-kthrea",
+    "PID": 49,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kthrotld]",
+    "COMM": "kthrotld",
+    "PID": 50,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/24-pciehp]",
+    "COMM": "irq/24-pciehp",
+    "PID": 51,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/25-pciehp]",
+    "COMM": "irq/25-pciehp",
+    "PID": 52,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/26-pciehp]",
+    "COMM": "irq/26-pciehp",
+    "PID": 53,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/27-pciehp]",
+    "COMM": "irq/27-pciehp",
+    "PID": 54,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/28-pciehp]",
+    "COMM": "irq/28-pciehp",
+    "PID": 55,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/29-pciehp]",
+    "COMM": "irq/29-pciehp",
+    "PID": 56,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/30-pciehp]",
+    "COMM": "irq/30-pciehp",
+    "PID": 57,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/31-pciehp]",
+    "COMM": "irq/31-pciehp",
+    "PID": 58,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/32-pciehp]",
+    "COMM": "irq/32-pciehp",
+    "PID": 59,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/33-pciehp]",
+    "COMM": "irq/33-pciehp",
+    "PID": 60,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/34-pciehp]",
+    "COMM": "irq/34-pciehp",
+    "PID": 61,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/35-pciehp]",
+    "COMM": "irq/35-pciehp",
+    "PID": 62,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/36-pciehp]",
+    "COMM": "irq/36-pciehp",
+    "PID": 63,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/37-pciehp]",
+    "COMM": "irq/37-pciehp",
+    "PID": 64,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/38-pciehp]",
+    "COMM": "irq/38-pciehp",
+    "PID": 65,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/39-pciehp]",
+    "COMM": "irq/39-pciehp",
+    "PID": 66,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/40-pciehp]",
+    "COMM": "irq/40-pciehp",
+    "PID": 67,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/41-pciehp]",
+    "COMM": "irq/41-pciehp",
+    "PID": 68,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/42-pciehp]",
+    "COMM": "irq/42-pciehp",
+    "PID": 69,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/43-pciehp]",
+    "COMM": "irq/43-pciehp",
+    "PID": 70,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/44-pciehp]",
+    "COMM": "irq/44-pciehp",
+    "PID": 71,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/45-pciehp]",
+    "COMM": "irq/45-pciehp",
+    "PID": 72,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/46-pciehp]",
+    "COMM": "irq/46-pciehp",
+    "PID": 73,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/47-pciehp]",
+    "COMM": "irq/47-pciehp",
+    "PID": 74,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/48-pciehp]",
+    "COMM": "irq/48-pciehp",
+    "PID": 75,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/49-pciehp]",
+    "COMM": "irq/49-pciehp",
+    "PID": 76,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/50-pciehp]",
+    "COMM": "irq/50-pciehp",
+    "PID": 77,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/51-pciehp]",
+    "COMM": "irq/51-pciehp",
+    "PID": 78,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/52-pciehp]",
+    "COMM": "irq/52-pciehp",
+    "PID": 79,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/53-pciehp]",
+    "COMM": "irq/53-pciehp",
+    "PID": 80,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/54-pciehp]",
+    "COMM": "irq/54-pciehp",
+    "PID": 81,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/55-pciehp]",
+    "COMM": "irq/55-pciehp",
+    "PID": 82,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[acpi_thermal_pm]",
+    "COMM": "acpi_thermal_pm",
+    "PID": 83,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_0]",
+    "COMM": "scsi_eh_0",
+    "PID": 85,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_0]",
+    "COMM": "scsi_tmf_0",
+    "PID": 86,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_1]",
+    "COMM": "scsi_eh_1",
+    "PID": 87,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_1]",
+    "COMM": "scsi_tmf_1",
+    "PID": 88,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[mld]",
+    "COMM": "mld",
+    "PID": 92,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[ipv6_addrconf]",
+    "COMM": "ipv6_addrconf",
+    "PID": 93,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kstrp]",
+    "COMM": "kstrp",
+    "PID": 101,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/u5:0]",
+    "COMM": "kworker/u5:0",
+    "PID": 103,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[charger_manager]",
+    "COMM": "charger_manager",
+    "PID": 107,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_2]",
+    "COMM": "scsi_eh_2",
+    "PID": 153,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_2]",
+    "COMM": "scsi_tmf_2",
+    "PID": 154,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[vmw_pvscsi_wq_2]",
+    "COMM": "vmw_pvscsi_wq_2",
+    "PID": 155,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_3]",
+    "COMM": "scsi_eh_3",
+    "PID": 156,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_3]",
+    "COMM": "scsi_tmf_3",
+    "PID": 158,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_4]",
+    "COMM": "scsi_eh_4",
+    "PID": 159,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_4]",
+    "COMM": "scsi_tmf_4",
+    "PID": 160,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_5]",
+    "COMM": "scsi_eh_5",
+    "PID": 161,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_5]",
+    "COMM": "scsi_tmf_5",
+    "PID": 162,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_6]",
+    "COMM": "scsi_eh_6",
+    "PID": 163,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_6]",
+    "COMM": "scsi_tmf_6",
+    "PID": 164,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_7]",
+    "COMM": "scsi_eh_7",
+    "PID": 165,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_7]",
+    "COMM": "scsi_tmf_7",
+    "PID": 166,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_8]",
+    "COMM": "scsi_eh_8",
+    "PID": 167,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_8]",
+    "COMM": "scsi_tmf_8",
+    "PID": 168,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_9]",
+    "COMM": "scsi_eh_9",
+    "PID": 169,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_9]",
+    "COMM": "scsi_tmf_9",
+    "PID": 170,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_10]",
+    "COMM": "scsi_eh_10",
+    "PID": 171,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_10]",
+    "COMM": "scsi_tmf_10",
+    "PID": 172,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_11]",
+    "COMM": "scsi_eh_11",
+    "PID": 173,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_11]",
+    "COMM": "scsi_tmf_11",
+    "PID": 174,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_12]",
+    "COMM": "scsi_eh_12",
+    "PID": 175,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_12]",
+    "COMM": "scsi_tmf_12",
+    "PID": 176,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_13]",
+    "COMM": "scsi_eh_13",
+    "PID": 177,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_13]",
+    "COMM": "scsi_tmf_13",
+    "PID": 178,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_14]",
+    "COMM": "scsi_eh_14",
+    "PID": 179,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_14]",
+    "COMM": "scsi_tmf_14",
+    "PID": 180,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_15]",
+    "COMM": "scsi_eh_15",
+    "PID": 181,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_15]",
+    "COMM": "scsi_tmf_15",
+    "PID": 182,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_16]",
+    "COMM": "scsi_eh_16",
+    "PID": 183,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_16]",
+    "COMM": "scsi_tmf_16",
+    "PID": 184,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_17]",
+    "COMM": "scsi_eh_17",
+    "PID": 185,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_17]",
+    "COMM": "scsi_tmf_17",
+    "PID": 186,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_18]",
+    "COMM": "scsi_eh_18",
+    "PID": 187,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_18]",
+    "COMM": "scsi_tmf_18",
+    "PID": 188,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_19]",
+    "COMM": "scsi_eh_19",
+    "PID": 189,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_19]",
+    "COMM": "scsi_tmf_19",
+    "PID": 190,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_20]",
+    "COMM": "scsi_eh_20",
+    "PID": 191,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_20]",
+    "COMM": "scsi_tmf_20",
+    "PID": 192,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_21]",
+    "COMM": "scsi_eh_21",
+    "PID": 193,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_21]",
+    "COMM": "scsi_tmf_21",
+    "PID": 194,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_22]",
+    "COMM": "scsi_eh_22",
+    "PID": 195,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_22]",
+    "COMM": "scsi_tmf_22",
+    "PID": 196,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_23]",
+    "COMM": "scsi_eh_23",
+    "PID": 197,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_23]",
+    "COMM": "scsi_tmf_23",
+    "PID": 198,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_24]",
+    "COMM": "scsi_eh_24",
+    "PID": 199,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_24]",
+    "COMM": "scsi_tmf_24",
+    "PID": 200,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_25]",
+    "COMM": "scsi_eh_25",
+    "PID": 201,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_25]",
+    "COMM": "scsi_tmf_25",
+    "PID": 202,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_26]",
+    "COMM": "scsi_eh_26",
+    "PID": 203,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_26]",
+    "COMM": "scsi_tmf_26",
+    "PID": 204,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_27]",
+    "COMM": "scsi_eh_27",
+    "PID": 205,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_27]",
+    "COMM": "scsi_tmf_27",
+    "PID": 206,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_28]",
+    "COMM": "scsi_eh_28",
+    "PID": 207,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_28]",
+    "COMM": "scsi_tmf_28",
+    "PID": 208,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_29]",
+    "COMM": "scsi_eh_29",
+    "PID": 209,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_29]",
+    "COMM": "scsi_tmf_29",
+    "PID": 210,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_30]",
+    "COMM": "scsi_eh_30",
+    "PID": 211,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_30]",
+    "COMM": "scsi_tmf_30",
+    "PID": 212,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_31]",
+    "COMM": "scsi_eh_31",
+    "PID": 213,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_31]",
+    "COMM": "scsi_tmf_31",
+    "PID": 214,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_eh_32]",
+    "COMM": "scsi_eh_32",
+    "PID": 215,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[scsi_tmf_32]",
+    "COMM": "scsi_tmf_32",
+    "PID": 216,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[jbd2/sda3-8]",
+    "COMM": "jbd2/sda3-8",
+    "PID": 274,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[ext4-rsv-conver]",
+    "COMM": "ext4-rsv-conver",
+    "PID": 275,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/lib/systemd/systemd-journald",
+    "COMM": "systemd-journal",
+    "PID": 314,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "vmware-vmblock-fuse /run/vmblock-fuse -o rw,subtype=vmware-vmblock,default_permissions,allow_other,dev,suid",
+    "COMM": "vmware-vmblock-",
+    "PID": 344,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/lib/systemd/systemd-udevd",
+    "COMM": "systemd-udevd",
+    "PID": 347,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/16-vmwgfx]",
+    "COMM": "irq/16-vmwgfx",
+    "PID": 348,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[ttm]",
+    "COMM": "ttm",
+    "PID": 349,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/61-vmw_vmci]",
+    "COMM": "irq/61-vmw_vmci",
+    "PID": 450,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[irq/62-vmw_vmci]",
+    "COMM": "irq/62-vmw_vmci",
+    "PID": 454,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[cryptd]",
+    "COMM": "cryptd",
+    "PID": 503,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/lib/systemd/systemd-oomd",
+    "COMM": "systemd-oomd",
+    "PID": 605,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/lib/systemd/systemd-resolved",
+    "COMM": "systemd-resolve",
+    "PID": 611,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/lib/systemd/systemd-timesyncd",
+    "COMM": "systemd-timesyn",
+    "PID": 614,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/VGAuthService",
+    "COMM": "VGAuthService",
+    "PID": 701,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/vmtoolsd",
+    "COMM": "vmtoolsd",
+    "PID": 703,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/accounts-daemon",
+    "COMM": "accounts-daemon",
+    "PID": 852,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/acpid",
+    "COMM": "acpid",
+    "PID": 853,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "avahi-daemon: running [LiW",
+    "COMM": "avahi-daemon",
+    "PID": 856,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/cron -f -P",
+    "COMM": "cron",
+    "PID": 859,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "@dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only",
+    "COMM": "dbus-daemon",
+    "PID": 860,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/NetworkManager --no-daemon",
+    "COMM": "NetworkManager",
+    "PID": 863,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/irqbalance --foreground",
+    "COMM": "irqbalance",
+    "PID": 877,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers",
+    "COMM": "networkd-dispat",
+    "PID": 880,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/polkitd --no-debug",
+    "COMM": "polkitd",
+    "PID": 883,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/power-profiles-daemon",
+    "COMM": "power-profiles-",
+    "PID": 884,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/rsyslogd -n -iNONE",
+    "COMM": "rsyslogd",
+    "PID": 885,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/lib/snapd/snapd",
+    "COMM": "snapd",
+    "PID": 900,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/switcheroo-control",
+    "COMM": "switcheroo-cont",
+    "PID": 902,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/lib/systemd/systemd-logind",
+    "COMM": "systemd-logind",
+    "PID": 915,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/udisks2/udisksd",
+    "COMM": "udisksd",
+    "PID": 919,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/sbin/wpa_supplicant -u -s -O /run/wpa_supplicant",
+    "COMM": "wpa_supplicant",
+    "PID": 921,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "avahi-daemon: chroot helpe",
+    "COMM": "avahi-daemon",
+    "PID": 939,
+    "PPID": 856,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/ModemManager",
+    "COMM": "ModemManager",
+    "PID": 963,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/cupsd -l",
+    "COMM": "cupsd",
+    "PID": 968,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/remmina/6419/usr/bin/ssh-agent -D -a /var/snap/remmina/6419/ssh-agent.socket",
+    "COMM": "ssh-agent",
+    "PID": 977,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/gdm3",
+    "COMM": "gdm3",
+    "PID": 1022,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal",
+    "COMM": "unattended-upgr",
+    "PID": 1032,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/cups-browsed",
+    "COMM": "cups-browsed",
+    "PID": 1120,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/kerneloops --test",
+    "COMM": "kerneloops",
+    "PID": 1134,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/kerneloops",
+    "COMM": "kerneloops",
+    "PID": 1138,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/rtkit-daemon",
+    "COMM": "rtkit-daemon",
+    "PID": 1141,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/upowerd",
+    "COMM": "upowerd",
+    "PID": 1280,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/packagekitd",
+    "COMM": "packagekitd",
+    "PID": 1286,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/colord",
+    "COMM": "colord",
+    "PID": 1438,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/0:4]",
+    "COMM": "kworker/0:4",
+    "PID": 1484,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "gdm-session-worker [pam/gdm-password]",
+    "COMM": "gdm-session-wor",
+    "PID": 1510,
+    "PPID": 1022,
+    "__children": []
+  },
+  {
+    "ARGS": "/lib/systemd/systemd --user",
+    "COMM": "systemd",
+    "PID": 1518,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": null,
+    "COMM": "(sd-pam)",
+    "PID": 1519,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/pipewire",
+    "COMM": "pipewire",
+    "PID": 1525,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/pipewire-media-session",
+    "COMM": "pipewire-media-",
+    "PID": 1526,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/pulseaudio --daemonize=no --log-target=journal",
+    "COMM": "pulseaudio",
+    "PID": 1527,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/gnome-keyring-daemon --daemonize --login",
+    "COMM": "gnome-keyring-d",
+    "PID": 1541,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only",
+    "COMM": "dbus-daemon",
+    "PID": 1545,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/xdg-document-portal",
+    "COMM": "xdg-document-po",
+    "PID": 1546,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/xdg-permission-store",
+    "COMM": "xdg-permission-",
+    "PID": 1549,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc",
+    "COMM": "fusermount3",
+    "PID": 1555,
+    "PPID": 1546,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu",
+    "COMM": "gdm-wayland-ses",
+    "PID": 1596,
+    "PPID": 1510,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gnome-session-binary --session=ubuntu",
+    "COMM": "gnome-session-b",
+    "PID": 1599,
+    "PPID": 1596,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gnome-session-ctl --monitor",
+    "COMM": "gnome-session-c",
+    "PID": 1656,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfsd",
+    "COMM": "gvfsd",
+    "PID": 1664,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f",
+    "COMM": "gvfsd-fuse",
+    "PID": 1671,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gnome-session-binary --systemd-service --session=ubuntu",
+    "COMM": "gnome-session-b",
+    "PID": 1673,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/at-spi-bus-launcher --launch-immediately",
+    "COMM": "at-spi-bus-laun",
+    "PID": 1695,
+    "PPID": 1673,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/gnome-shell",
+    "COMM": "gnome-shell",
+    "PID": 1702,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus",
+    "COMM": "dbus-daemon",
+    "PID": 1709,
+    "PPID": 1695,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gnome-shell-calendar-server",
+    "COMM": "gnome-shell-cal",
+    "PID": 1726,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/evolution-source-registry",
+    "COMM": "evolution-sourc",
+    "PID": 1732,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/goa-daemon",
+    "COMM": "goa-daemon",
+    "PID": 1739,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfs-udisks2-volume-monitor",
+    "COMM": "gvfs-udisks2-vo",
+    "PID": 1741,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/evolution-calendar-factory",
+    "COMM": "evolution-calen",
+    "PID": 1743,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/goa-identity-service",
+    "COMM": "goa-identity-se",
+    "PID": 1756,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfs-afc-volume-monitor",
+    "COMM": "gvfs-afc-volume",
+    "PID": 1757,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfs-gphoto2-volume-monitor",
+    "COMM": "gvfs-gphoto2-vo",
+    "PID": 1768,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/dconf-service",
+    "COMM": "dconf-service",
+    "PID": 1775,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/evolution-addressbook-factory",
+    "COMM": "evolution-addre",
+    "PID": 1776,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfs-goa-volume-monitor",
+    "COMM": "gvfs-goa-volume",
+    "PID": 1780,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfs-mtp-volume-monitor",
+    "COMM": "gvfs-mtp-volume",
+    "PID": 1786,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfsd-trash --spawner :1.15 /org/gtk/gvfs/exec_spaw/0",
+    "COMM": "gvfsd-trash",
+    "PID": 1803,
+    "PPID": 1664,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/at-spi2-registryd --use-gnome-session",
+    "COMM": "at-spi2-registr",
+    "PID": 1812,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications",
+    "COMM": "gjs",
+    "PID": 1814,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "sh -c /usr/bin/ibus-daemon --panel disable $([ \"$XDG_SESSION_TYPE\" = \"x11\" ] && echo \"--xim\")",
+    "COMM": "sh",
+    "PID": 1829,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-a11y-settings",
+    "COMM": "gsd-a11y-settin",
+    "PID": 1830,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-color",
+    "COMM": "gsd-color",
+    "PID": 1831,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/ibus-daemon --panel disable",
+    "COMM": "ibus-daemon",
+    "PID": 1833,
+    "PPID": 1829,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-datetime",
+    "COMM": "gsd-datetime",
+    "PID": 1834,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-housekeeping",
+    "COMM": "gsd-housekeepin",
+    "PID": 1836,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-keyboard",
+    "COMM": "gsd-keyboard",
+    "PID": 1844,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-media-keys",
+    "COMM": "gsd-media-keys",
+    "PID": 1845,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-power",
+    "COMM": "gsd-power",
+    "PID": 1850,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-print-notifications",
+    "COMM": "gsd-print-notif",
+    "PID": 1853,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-rfkill",
+    "COMM": "gsd-rfkill",
+    "PID": 1854,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-screensaver-proxy",
+    "COMM": "gsd-screensaver",
+    "PID": 1863,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-sharing",
+    "COMM": "gsd-sharing",
+    "PID": 1866,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-smartcard",
+    "COMM": "gsd-smartcard",
+    "PID": 1868,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-sound",
+    "COMM": "gsd-sound",
+    "PID": 1872,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-wacom",
+    "COMM": "gsd-wacom",
+    "PID": 1879,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/evolution-data-server/evolution-alarm-notify",
+    "COMM": "evolution-alarm",
+    "PID": 1880,
+    "PPID": 1673,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/ibus-memconf",
+    "COMM": "ibus-memconf",
+    "PID": 1911,
+    "PPID": 1833,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/ibus-extension-gtk3",
+    "COMM": "ibus-extension-",
+    "PID": 1913,
+    "PPID": 1833,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/ibus-portal",
+    "COMM": "ibus-portal",
+    "PID": 1924,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-disk-utility-notify",
+    "COMM": "gsd-disk-utilit",
+    "PID": 1928,
+    "PPID": 1673,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/vmtoolsd -n vmusr --blockFd 3 --uinputFd 4",
+    "COMM": "vmtoolsd",
+    "PID": 1970,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-printer",
+    "COMM": "gsd-printer",
+    "PID": 1976,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/snap-store/959/usr/bin/snap-store --gapplication-service",
+    "COMM": "snap-store",
+    "PID": 1982,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/ibus-engine-simple",
+    "COMM": "ibus-engine-sim",
+    "PID": 2013,
+    "PPID": 1833,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gvfsd-metadata",
+    "COMM": "gvfsd-metadata",
+    "PID": 2018,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/xdg-desktop-portal",
+    "COMM": "xdg-desktop-por",
+    "PID": 2021,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/xdg-desktop-portal-gnome",
+    "COMM": "xdg-desktop-por",
+    "PID": 2025,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.BFUKQ2 -listen 4 -listen 5 -displayfd 6 -initfd 7",
+    "COMM": "Xwayland",
+    "PID": 2059,
+    "PPID": 1702,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/snapd-desktop-integration/157/usr/bin/snapd-desktop-integration",
+    "COMM": "snapd-desktop-i",
+    "PID": 2101,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/snapd-desktop-integration/157/usr/bin/snapd-desktop-integration",
+    "COMM": "snapd-desktop-i",
+    "PID": 2164,
+    "PPID": 2101,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/tracker-miner-fs-3",
+    "COMM": "tracker-miner-f",
+    "PID": 2167,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver",
+    "COMM": "gjs",
+    "PID": 2212,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:3610:1440:1:27:0:70:0:0",
+    "COMM": "gjs",
+    "PID": 2254,
+    "PPID": 1702,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gsd-xsettings",
+    "COMM": "gsd-xsettings",
+    "PID": 2256,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/xdg-desktop-portal-gtk",
+    "COMM": "xdg-desktop-por",
+    "PID": 2260,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/ibus-x11",
+    "COMM": "ibus-x11",
+    "PID": 2294,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/fwupd/fwupd",
+    "COMM": "fwupd",
+    "PID": 2345,
+    "PPID": 1,
+    "__children": []
+  },
+  {
+    "ARGS": "update-notifier",
+    "COMM": "update-notifier",
+    "PID": 2957,
+    "PPID": 1673,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox",
+    "COMM": "firefox",
+    "PID": 3000,
+    "PPID": 1702,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -parentBuildID 20240626001103 -prefsLen 27721 -prefMapSize 244145 -appDir /snap/firefox/4483/usr/lib/firefox/browser {b1059acb-3f64-4d44-a158-02566e3c780d} 3000 true socket",
+    "COMM": "Socket Process",
+    "PID": 3142,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 27862 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {9037bc25-9b1c-4c1c-b6f6-7bd349eae390} 3000 true tab",
+    "COMM": "Privileged Cont",
+    "PID": 3161,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/snap userd",
+    "COMM": "snap",
+    "PID": 3196,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 33795 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {65c4da9a-179a-4cfe-9ba8-105ef7cd1840} 3000 true tab",
+    "COMM": "WebExtensions",
+    "PID": 3330,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -parentBuildID 20240626001103 -sandboxingKind 0 -prefsLen 34104 -prefMapSize 244145 -appDir /snap/firefox/4483/usr/lib/firefox/browser {a960fa5b-2078-40cc-91db-68663a0010d8} 3000 true utility",
+    "COMM": "Utility Process",
+    "PID": 3637,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 28328 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {d048b556-17e6-4e13-9720-160e4be9c57b} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 3640,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 31825 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {f3c021f8-8a58-4a8a-bff1-d49fd3053bf2} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 3742,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -parentBuildID 20240626001103 -prefsLen 38312 -prefMapSize 244145 -appDir /snap/firefox/4483/usr/lib/firefox/browser {166ce793-63df-4f78-b606-78198ef23798} 3000 true rdd",
+    "COMM": "RDD Process",
+    "PID": 3781,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 9 -isForBrowser -prefsLen 31825 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {86102a59-a068-4199-a6d6-cd54ade40f19} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 3981,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 11 -isForBrowser -prefsLen 31878 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {90b0ee8c-4218-4e76-8966-929fbd34c71b} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 4215,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 12 -isForBrowser -prefsLen 31878 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {254a69e0-066d-4deb-8eca-c6205e5db3ef} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 4218,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/gnome-calendar --gapplication-service",
+    "COMM": "gnome-calendar",
+    "PID": 4347,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/libexec/gnome-terminal-server",
+    "COMM": "gnome-terminal-",
+    "PID": 4348,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/seahorse --gapplication-service",
+    "COMM": "seahorse",
+    "PID": 4350,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "bash",
+    "COMM": "bash",
+    "PID": 4453,
+    "PPID": 4348,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/u4:0]",
+    "COMM": "kworker/u4:0",
+    "PID": 4478,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 14 -isForBrowser -prefsLen 31878 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {09b15bc7-bca6-49fc-b24e-4496eb751e5d} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 4599,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/0:0H]",
+    "COMM": "kworker/0:0H",
+    "PID": 4747,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/0:1H]",
+    "COMM": "kworker/0:1H",
+    "PID": 4748,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 19 -isForBrowser -prefsLen 31918 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {2cc013ed-68f4-43c8-9ef4-dc4eca7ac43a} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 4771,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 20 -isForBrowser -prefsLen 31918 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {eb55791a-cace-4251-abd9-b16d531e3d93} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 4806,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "sudo ./youtube_downloader.elf",
+    "COMM": "sudo",
+    "PID": 4908,
+    "PPID": 4453,
+    "__children": []
+  },
+  {
+    "ARGS": "sudo ./youtube_downloader.elf",
+    "COMM": "sudo",
+    "PID": 4909,
+    "PPID": 4908,
+    "__children": []
+  },
+  {
+    "ARGS": "./youtube_downloader.elf",
+    "COMM": "youtube_downloa",
+    "PID": 4910,
+    "PPID": 4909,
+    "__children": []
+  },
+  {
+    "ARGS": "bash",
+    "COMM": "bash",
+    "PID": 4954,
+    "PPID": 4348,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 21 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {42d523de-4bf3-48f0-8fd2-8cd847d574cd} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5075,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 22 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {7e45ca96-d6e8-49ad-a0e5-af549ab9618d} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5102,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 23 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {fd68ffa3-ab15-48e7-8097-a72dd3b140cb} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5128,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 24 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {858a0ff8-77dd-4a9f-84c9-aef14abc6ac4} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5132,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 25 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {e612102d-c405-45fa-85ab-33bd9cac2689} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5166,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 27 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {569c0003-b9fc-4fb3-995f-7921585f1d43} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5191,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/speech-dispatcher -s -t 0",
+    "COMM": "speech-dispatch",
+    "PID": 5211,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 28 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {5900dc2a-dd7b-4911-b6fe-085eb3ea781e} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5221,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/lib/speech-dispatcher-modules/sd_espeak-ng /etc/speech-dispatcher/modules/espeak-ng.conf",
+    "COMM": "sd_espeak-ng",
+    "PID": 5238,
+    "PPID": 5211,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf",
+    "COMM": "sd_dummy",
+    "PID": 5255,
+    "PPID": 5211,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 29 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {d703fdb6-0628-4607-a5e4-585a115674e2} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5278,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 31 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {ddf1f5d8-4ef9-4fe4-97ae-6fb5bfb093bf} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5319,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 32 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {b48c01b9-c7b3-4c40-9866-267607dd2aed} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5321,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 33 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {8e56bbf1-ff4b-4f0d-b6fe-4a23e9cf4a09} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5359,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 34 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {ccbdfdd2-6481-4ca8-9ad2-b477c7e52400} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5378,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 35 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {442dc1f7-077a-4c11-8254-b78b9cd238af} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5381,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 36 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {1682ac58-8aba-40e7-85e1-18020b02eb1a} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5402,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 37 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {249abfa7-3f36-4650-9f0f-7b4146e2a4e4} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5432,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 38 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {f4d9a75f-ab67-43dd-bd9b-d0d7ad38392c} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5452,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 39 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {5caeed2b-603a-4088-bdc7-582253175748} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5472,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 40 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {c061c193-1cf8-4dc7-89ba-afb7708ad46a} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5477,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 41 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {6c9fd9fb-363b-46c1-a3e8-11b028b5462b} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5491,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 42 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {62dcf7a7-9591-4775-b79e-fde5795f710a} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5520,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 43 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {b767b4d2-b5f7-4d08-8100-1a6145fcee79} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5559,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 44 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {4b9a6c4f-68d8-4120-9317-66918c16d862} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5570,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 45 -isForBrowser -prefsLen 32005 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {80c922ee-bc9b-4ea4-aa0e-ad9f5a9c5cc5} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 5604,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/u4:1]",
+    "COMM": "kworker/u4:1",
+    "PID": 5769,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/sbin/CRON -f -P",
+    "COMM": "cron",
+    "PID": 6420,
+    "PPID": 859,
+    "__children": []
+  },
+  {
+    "ARGS": "/bin/sh -c /usr/bin/nettstat",
+    "COMM": "sh",
+    "PID": 6421,
+    "PPID": 6420,
+    "__children": []
+  },
+  {
+    "ARGS": "/usr/bin/nettstat",
+    "COMM": "nettstat",
+    "PID": 6422,
+    "PPID": 6421,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/u4:2]",
+    "COMM": "kworker/u4:2",
+    "PID": 6448,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/1:3]",
+    "COMM": "kworker/1:3",
+    "PID": 6518,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 58 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {ee416e13-64ef-48c2-9f20-0b2e2b90d31c} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 6519,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 60 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {88adc841-cea2-4c52-bf43-bc1cc789a71d} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 6572,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 62 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {83b04625-d352-4468-a3f7-d68f09a199f5} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 6661,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 63 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {6f8bb212-8658-4dc9-931d-3c37d66429fc} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 6683,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/sublime-text/156/opt/sublime_text/sublime_text --detached index.html",
+    "COMM": "sublime_text",
+    "PID": 6742,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/sublime-text/156/opt/sublime_text/crash_handler --no-rate-limit --database=/home/woreilly/.cache/sublime-text/Crash Reports --metrics-dir=/home/woreilly/.cache/sublime-text/Crash Reports --url=https://crash-server.sublimehq.com/api/upload --annotation=hash=15478411202926643057 --annotation=ident=sublime_text_4169 --initial-client-fd=19 --shared-client-connection",
+    "COMM": "crash_handler",
+    "PID": 6751,
+    "PPID": 1518,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/sublime-text/156/opt/sublime_text/plugin_host-3.3 6742 /snap/sublime-text/156/opt/sublime_text/sublime_text 17:6751 /home/woreilly/.config/sublime-text /home/woreilly/.cache/sublime-text /snap/sublime-text/156/opt/sublime_text/Packages",
+    "COMM": "plugin_host-3.3",
+    "PID": 6796,
+    "PPID": 6742,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/sublime-text/156/opt/sublime_text/plugin_host-3.8 6742 /snap/sublime-text/156/opt/sublime_text/sublime_text 17:6751 /home/woreilly/.config/sublime-text /home/woreilly/.cache/sublime-text /snap/sublime-text/156/opt/sublime_text/Packages",
+    "COMM": "plugin_host-3.8",
+    "PID": 6799,
+    "PPID": 6742,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/1:2H]",
+    "COMM": "kworker/1:2H",
+    "PID": 6824,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/1:3H]",
+    "COMM": "kworker/1:3H",
+    "PID": 6825,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 64 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {ba9e7839-a746-4619-9ede-f3ec3c1e68d5} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 6962,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/0:0]",
+    "COMM": "kworker/0:0",
+    "PID": 7065,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/1:0]",
+    "COMM": "kworker/1:0",
+    "PID": 7066,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 65 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {9aec5db8-8dc7-4509-857c-0c11c0d831dc} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 7075,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 67 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {e3203137-9ed4-487a-97a6-815d99f5b551} 3000 true tab",
+    "COMM": "Isolated Web Co",
+    "PID": 7135,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 68 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {ce6e77ef-855f-4dff-ba60-4a09f0acc694} 3000 true tab",
+    "COMM": "Isolated Servic",
+    "PID": 7421,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 69 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {ed71506b-d85b-4d04-8fc1-1d45378eef9f} 3000 true tab",
+    "COMM": "Web Content",
+    "PID": 7428,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/0:1]",
+    "COMM": "kworker/0:1",
+    "PID": 7504,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "[kworker/1:1]",
+    "COMM": "kworker/1:1",
+    "PID": 7561,
+    "PPID": 2,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 70 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {d8e53520-6ebf-4a38-b42a-809e73143f68} 3000 true tab",
+    "COMM": "Web Content",
+    "PID": 7572,
+    "PPID": 3000,
+    "__children": []
+  },
+  {
+    "ARGS": "/snap/firefox/4483/usr/lib/firefox/firefox -contentproc -childID 71 -isForBrowser -prefsLen 32260 -prefMapSize 244145 -jsInitLen 234488 -parentBuildID 20240626001103 -greomni /snap/firefox/4483/usr/lib/firefox/omni.ja -appomni /snap/firefox/4483/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/4483/usr/lib/firefox/browser {e1686aae-7c57-45f9-8800-fd3f2a8eb904} 3000 true tab",
+    "COMM": "Web Content",
+    "PID": 7737,
+    "PPID": 3000,
+    "__children": []
+  }
+]
