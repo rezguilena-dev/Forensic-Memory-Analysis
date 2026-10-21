@@ -12,10 +12,19 @@ def getPort(PID:int):
     i = 0
     while jsD[i]['PID'] != PID and i < len(jsD):
       i += 1
-    print(jsD[i])
-    rem.append(jsD[i])
+    #print(jsD[i])
+    if jsD[i]['PID'] == PID:
+      rem.append(jsD[i])
+    
+def getPortL(PIDs:list):
+  #Verifie les ports ouverts par une liste de processus donné (PIDs)
+  with open('ressources/out/linux.sockstat.json') as jsF :
+    jsD = json.load(jsF)
+    for pid in PIDs :
+      getPort(pid)
 
 if __name__ == "__main__":
-  getPort(6422)
+  #getPort(6422)
+  getPortL([6422])
   print(rem)
 
