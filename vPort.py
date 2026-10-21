@@ -22,9 +22,22 @@ def getPortL(PIDs:list):
     jsD = json.load(jsF)
     for pid in PIDs :
       getPort(pid)
+      
+def getLPort(PID:int):
+  #Recupère la liste de tout les ports ouverts par un processus donné (PID)
+  with open('ressources/out/linux.sockstat.json') as jsF :
+    jsD = json.load(jsF)
+    i = 0
+    while i < len(jsD):
+      if jsD[i]['PID'] == PID:
+        rem.append(jsD[i])
+      i += 1
 
 if __name__ == "__main__":
   #getPort(6422)
-  getPortL([6422])
+  #getPortL([6422])
+  #getLPort(6422)
+  #print(len(rem))
   print(rem)
+  
 
