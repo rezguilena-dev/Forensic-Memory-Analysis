@@ -1,0 +1,105 @@
+[
+    {
+        "COMM": "systemd",
+        "OFFSET (V)": 174688133690112,
+        "PID": 1,
+        "PPID": 0,
+        "TID": 1,
+        "__children": [
+            {
+                "COMM": "cron",
+                "OFFSET (V)": 174688209403904,
+                "PID": 859,
+                "PPID": 1,
+                "TID": 859,
+                "__children": [
+                    {
+                        "COMM": "cron",
+                        "OFFSET (V)": 174685377737472,
+                        "PID": 6420,
+                        "PPID": 859,
+                        "TID": 6420,
+                        "__children": [
+                            {
+                                "COMM": "sh",
+                                "OFFSET (V)": 174686080617600,
+                                "PID": 6421,
+                                "PPID": 6420,
+                                "TID": 6421,
+                                "__children": [
+                                    {
+                                        "COMM": "nettstat",
+                                        "OFFSET (V)": 174685270815488,
+                                        "PID": 6422,
+                                        "PPID": 6421,
+                                        "TID": 6422,
+                                        "__children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "COMM": "systemd",
+                "OFFSET (V)": 174683855165824,
+                "PID": 1518,
+                "PPID": 1,
+                "TID": 1518,
+                "__children": [
+                    {
+                        "COMM": "gnome-session-c",
+                        "OFFSET (V)": 174688379332096,
+                        "PID": 1656,
+                        "PPID": 1518,
+                        "TID": 1656,
+                        "__children": []
+                    },
+                    {
+                        "COMM": "sh",
+                        "OFFSET (V)": 174684154186880,
+                        "PID": 1829,
+                        "PPID": 1518,
+                        "TID": 1829,
+                        "__children": [
+                            {
+                                "COMM": "ibus-daemon",
+                                "OFFSET (V)": 174684255636608,
+                                "PID": 1833,
+                                "PPID": 1829,
+                                "TID": 1833,
+                                "__children": [
+                                    {
+                                        "COMM": "ibus-memconf",
+                                        "OFFSET (V)": 174684213929472,
+                                        "PID": 1911,
+                                        "PPID": 1833,
+                                        "TID": 1911,
+                                        "__children": []
+                                    },
+                                    {
+                                        "COMM": "ibus-extension-",
+                                        "OFFSET (V)": 174684213922944,
+                                        "PID": 1913,
+                                        "PPID": 1833,
+                                        "TID": 1913,
+                                        "__children": []
+                                    },
+                                    {
+                                        "COMM": "ibus-engine-sim",
+                                        "OFFSET (V)": 174684280337152,
+                                        "PID": 2013,
+                                        "PPID": 1833,
+                                        "TID": 2013,
+                                        "__children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
