@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import sys
 sys.dont_write_bytecode = True
+
 from vPort import *
 
 if __name__ == "__main__":
@@ -10,8 +11,8 @@ if __name__ == "__main__":
   #print(getPort(PID)) #OK
   #getPortL([PID]) #OK
   #getLPort(PIDs[0]) #OK
-  getPortL(PIDs)
+  #getPortL(PIDs) #OK
   
   #print(rem)
   
-  writeAll(PIDs)
+  #writeAll() #OK

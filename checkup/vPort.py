@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-import json
 import sys
 sys.dont_write_bytecode = True
+
+import json
 
 rem = {}
 
@@ -48,7 +49,7 @@ def writeFile(PID:int):
     with open(f"out/ports/process{PID}.json", "a") as f:
       json.dump(rem[PID],f,ensure_ascii=False, indent=2)
       
-def writeAll(PIDs:list):
+def writeAll():
   for r in rem :
     writeFile(r)
 
