@@ -52,15 +52,8 @@ def traverse(node):
     return None #aucun noeud suspect
 
 
-    
-
-
-
-
-
-
 if __name__ == '__main__':
-    with open("../ressources/out/linux.pstree.json") as file:
+    with open("ressources/out/linux.pstree.json") as file:
         data = json.load(file)
     result =[]
     for node in data :
@@ -68,5 +61,5 @@ if __name__ == '__main__':
         if res is not None:
             result.append(res)
 
-    with open("./JSON FILES/suspects.json", "w") as f:
+    with open("./out/pstree/suspicious_proc.json", "w") as f:
         json.dump(result, f, indent=4)
