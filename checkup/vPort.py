@@ -38,28 +38,18 @@ def getLPort(PID:int):
 def writeFile(PID:int):
   #Ecrit le contenu de rem[PID] dans un fichier process{numProcess}.json
   try:
-     f = open(f"processPort/process{PID}.json", "x")
+     f = open(f"out/ports/process{PID}.json", "x")
   except:
     #overwriting
-    with open(f"processPort/process{PID}.json", "w") as f:
+    with open(f"out/ports/process{PID}.json", "w") as f:
       f.write(str(rem[PID]))
   else :
     #adding
-    with open(f"processPort/process{PID}.json", "a") as f:
+    with open(f"out/ports/process{PID}.json", "a") as f:
       f.write(str(rem[PID]))
       
 def writeAll(PIDs:list):
   for r in rem :
     writeFile(r)
 
-if __name__ == "__main__":
-  PID = 6422
-  PIDs = [6422,1]
-  #print(getPort(PID)) #OK
-  #getPortL([PID]) #OK
-  #getLPort(PIDs[0]) #OK
-  getPortL(PIDs)
-  
-  #print(rem)
-  
-  writeAll(PIDs)
+ 
