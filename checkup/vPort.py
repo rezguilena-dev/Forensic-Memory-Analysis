@@ -42,11 +42,11 @@ def writeFile(PID:int):
   except:
     #overwriting
     with open(f"out/ports/process{PID}.json", "w") as f:
-      f.write(str(rem[PID]))
+      json.dump(rem[PID],f,ensure_ascii=False, indent=2)
   else :
     #adding
     with open(f"out/ports/process{PID}.json", "a") as f:
-      f.write(str(rem[PID]))
+      json.dump(rem[PID],f,ensure_ascii=False, indent=2)
       
 def writeAll(PIDs:list):
   for r in rem :
