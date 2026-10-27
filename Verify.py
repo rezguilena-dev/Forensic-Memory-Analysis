@@ -5,18 +5,26 @@ sys.dont_write_bytecode = True
 from checkup.vPort import *
 
 class Verify:
-
-  def __init___(self,PIDs:list):
-    self.PIDs = PIDs
+  def __init___(self):
+    self.PIDs = []
 
   def verifyPort(self,PIDs:list):
     getPortL(PIDs)
     
   def writePort(self):
     writeAll()
+    
+  def verifyLevenstein(self):
+    executeLevenstein()
 
 if __name__ == "__main__":
   print("ok")
+  
+  """
+  Lance l'analyse des processus avec levenstein
+  """
+  #verifyLevenstein()
+  
   PIDs = [] #liste PID à vérifier
   """ 
   Recherche de ports ouverts/communication faite par les processus dans la liste PIDs

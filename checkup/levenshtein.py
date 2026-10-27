@@ -1,14 +1,19 @@
+#!/usr/bin/python3
+import sys
+sys.dont_write_bytecode = True
+
 import json
-#Calculer la distance de levenshtein
+
 def levenshtein(a,b):
+    #Calculer la distance de levenshtein
     n = len(a)
     m = len(b)
 
     mat=[[0]*(m+1) for _ in range(n+1)]
 
-    for i in range (n+1):
+    for i in range(n+1):
         mat[i][0] = i
-    for j in range (m+1):
+    for j in range(m+1):
         mat[0][j] = j
     for i in range(1,n+1):
         for j in range(1,m+1):
@@ -52,7 +57,7 @@ def traverse(node):
     return None #aucun noeud suspect
 
 
-if __name__ == '__main__':
+def executeLevenstein():
     with open("ressources/out/linux.pstree.json") as file:
         data = json.load(file)
     result =[]
@@ -60,6 +65,6 @@ if __name__ == '__main__':
         res= traverse(node)
         if res is not None:
             result.append(res)
-
+    #Ecriture du résultat
     with open("./out/pstree/suspicious_proc.json", "w") as f:
         json.dump(result, f, indent=4)
