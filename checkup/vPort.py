@@ -53,4 +53,20 @@ def writeAll():
   for r in rem :
     writeFile(r)
 
- 
+
+def getPortFromJSON(filepath:str)->int:
+  try:
+    with open(filepath,"r") as f:
+      fD = json.load(f)
+      while fD[0]["__children"] != []:
+        fD = fD[0]["__children"]
+      return fD[0]["PID"]
+  except:
+    print("Error, filepath incorrect")
+
+if __name__ == "__main__":
+  print("ok")
+  filepath = "out/pstree/suspicious_proc.json"
+  print(getPortFromJSON(filepath))
+  
+  
